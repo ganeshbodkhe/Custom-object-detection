@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>56.jpg</filename>
+	<path>C:\Users\interview2\Desktop\Project\Custom-object-detection\images\56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wafers Lays</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>4</ymin>
+			<xmax>439</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>
