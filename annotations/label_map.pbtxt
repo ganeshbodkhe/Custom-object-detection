@@ -43,3 +43,7 @@ item {
   id: 10
   name: 'Wafers Lays'
 }
+item {
+  id: 11
+  name: 'Mobile'
+}
