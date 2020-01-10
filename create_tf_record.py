@@ -87,7 +87,7 @@ def dict_to_tf_example(data,
     ymax.append(float(obj['bndbox']['ymax']) / height)
 
     class_name = obj['name']
-    logging.warning('label name', path)
+    logging.warning('label name', class_name)
     classes_text.append(class_name.encode('utf8'))
     classes.append(label_map_dict[class_name])
     truncated.append(int(0))
