@@ -128,7 +128,8 @@ def create_tf_record(output_filename,
     image_dir: Directory where image files are stored.
     examples: Examples to parse and save to tf record.
   """
-  writer = tf.python_io.TFRecordWriter(output_filename)
+  # writer = tf.python_io.TFRecordWriter(output_filename)
+  writer = tf.io.TFRecordWriter(output_filename)
   for idx, example in enumerate(examples):
     if idx % 100 == 0:
       logging.info('On image %d of %d', idx, len(examples))
