@@ -87,6 +87,7 @@ def dict_to_tf_example(data,
     ymax.append(float(obj['bndbox']['ymax']) / height)
 
     class_name = obj['name']
+    logging.warning('label name', path)
     classes_text.append(class_name.encode('utf8'))
     classes.append(label_map_dict[class_name])
     truncated.append(int(0))
@@ -151,7 +152,7 @@ def create_tf_record(output_filename,
 def main(_):
   label_map_dict = label_map_util.get_label_map_dict('annotations/label_map.pbtxt')
 
-  logging.info('Reading from Pet dataset.')
+  logging.info('Reading from Custom dataset.')
   image_dir = 'images'
   annotations_dir = 'annotations'
   examples_path = os.path.join(annotations_dir, 'trainval.txt')

@@ -1,0 +1,45 @@
+item {
+  id: 1
+  name: 'Pepsodent'
+}
+
+item {
+  id: 2
+  name: 'Balaji Wafers'
+}
+item {
+  id: 3
+  name: 'Bottle'
+}
+
+item {
+  id: 4
+  name: 'Mouse'
+}
+item {
+  id: 5
+  name: 'Sticky Notepad'
+}
+
+item {
+  id: 6
+  name: 'Office Mate'
+}
+item {
+  id: 7
+  name: 'Remote'
+}
+
+item {
+  id: 8
+  name: 'Nihilent Id card'
+}
+item {
+  id: 9
+  name: 'Colgate'
+}
+
+item {
+  id: 10
+  name: 'Wafers Lays'
+}
