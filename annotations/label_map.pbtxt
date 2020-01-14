@@ -1,11 +1,11 @@
 item {
   id: 1
-  name: 'Pepsodent'
+  name: 'pepsodent'
 }
 
 item {
   id: 2
-  name: 'Balaji Wafers'
+  name: 'wafers'
 }
 
 item {
@@ -20,12 +20,12 @@ item {
 
 item {
   id: 5
-  name: 'Sticky Notepad'
+  name: 'StickyNotepad'
 }
 
 item {
   id: 6
-  name: 'Office Mate'
+  name: 'OfficeMate'
 }
 
 item {
@@ -35,7 +35,7 @@ item {
 
 item {
   id: 8
-  name: 'Nihilent Id card'
+  name: 'NihilentIdCard'
 }
 
 item {
@@ -43,12 +43,8 @@ item {
   name: 'Colgate'
 }
 
-item {
-  id: 10
-  name: 'Wafers Lays'
-}
 
 item {
-  id: 11
+  id: 10
   name: 'Mobile'
 }

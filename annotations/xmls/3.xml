@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3120</width>
-		<height>4160</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Office Mate</name>
+		<name>OfficeMate</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>843</xmin>
-			<ymin>100</ymin>
-			<xmax>1857</xmax>
-			<ymax>3740</ymax>
+			<xmin>72</xmin>
+			<ymin>4</ymin>
+			<xmax>179</xmax>
+			<ymax>267</ymax>
 		</bndbox>
 	</object>
 </annotation>

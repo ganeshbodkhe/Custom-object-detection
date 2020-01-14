@@ -6,33 +6,33 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3120</width>
-		<height>4160</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>Remote</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>17</xmin>
-			<ymin>500</ymin>
-			<xmax>1163</xmax>
-			<ymax>3380</ymax>
+			<xmin>1</xmin>
+			<ymin>31</ymin>
+			<xmax>100</xmax>
+			<ymax>238</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Nihitent Id card</name>
+		<name>NihilentIdCard</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1377</xmin>
-			<ymin>1460</ymin>
-			<xmax>2677</xmax>
-			<ymax>2940</ymax>
+			<xmin>141</xmin>
+			<ymin>103</ymin>
+			<xmax>254</xmax>
+			<ymax>213</ymax>
 		</bndbox>
 	</object>
 </annotation>

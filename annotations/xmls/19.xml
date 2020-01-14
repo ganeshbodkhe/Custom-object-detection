@@ -6,33 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>306</width>
-		<height>165</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Colgate</name>
+		<name>wafers</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>32</xmin>
-			<ymin>8</ymin>
-			<xmax>285</xmax>
-			<ymax>65</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Colgate</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>15</xmin>
-			<ymin>75</ymin>
-			<xmax>296</xmax>
-			<ymax>130</ymax>
+			<xmin>5</xmin>
+			<ymin>46</ymin>
+			<xmax>298</xmax>
+			<ymax>279</ymax>
 		</bndbox>
 	</object>
 </annotation>

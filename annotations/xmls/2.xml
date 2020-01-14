@@ -6,8 +6,8 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3120</width>
-		<height>4160</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>30</xmin>
-			<ymin>326</ymin>
-			<xmax>1170</xmax>
-			<ymax>1966</ymax>
+			<xmin>5</xmin>
+			<ymin>10</ymin>
+			<xmax>110</xmax>
+			<ymax>151</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Sticky Notepad</name>
+		<name>StickyNotepad</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1250</xmin>
-			<ymin>1426</ymin>
-			<xmax>2683</xmax>
-			<ymax>3606</ymax>
+			<xmin>116</xmin>
+			<ymin>101</ymin>
+			<xmax>257</xmax>
+			<ymax>265</ymax>
 		</bndbox>
 	</object>
 </annotation>

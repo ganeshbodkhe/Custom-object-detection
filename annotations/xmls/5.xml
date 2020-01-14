@@ -6,8 +6,8 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4160</width>
-		<height>3120</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,34 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
-			<ymin>1060</ymin>
-			<xmax>1239</xmax>
-			<ymax>2231</ymax>
+			<xmin>13</xmin>
+			<ymin>93</ymin>
+			<xmax>86</xmax>
+			<ymax>211</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Nihitent Id card</name>
+		<name>StickyNotepad</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1153</xmin>
-			<ymin>612</ymin>
-			<xmax>1901</xmax>
-			<ymax>1469</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Sticky Notepad</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1205</xmin>
-			<ymin>1584</ymin>
-			<xmax>2882</xmax>
-			<ymax>3103</ymax>
+			<xmin>89</xmin>
+			<ymin>152</ymin>
+			<xmax>195</xmax>
+			<ymax>298</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2239</xmin>
-			<ymin>965</ymin>
-			<xmax>3901</xmax>
-			<ymax>2393</ymax>
+			<xmin>160</xmin>
+			<ymin>87</ymin>
+			<xmax>276</xmax>
+			<ymax>229</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Nihitent Id card</name>
+		<name>NihilentIdCard</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3067</xmin>
-			<ymin>860</ymin>
-			<xmax>4039</xmax>
-			<ymax>1698</ymax>
+			<xmin>219</xmin>
+			<ymin>84</ymin>
+			<xmax>291</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NihilentIdCard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>55</ymin>
+			<xmax>136</xmax>
+			<ymax>143</ymax>
 		</bndbox>
 	</object>
 </annotation>
