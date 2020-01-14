@@ -14,13 +14,13 @@
 	<object>
 		<name>pepsodent</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>9</xmin>
-			<ymin>96</ymin>
-			<xmax>297</xmax>
-			<ymax>189</ymax>
+			<xmin>4</xmin>
+			<ymin>99</ymin>
+			<xmax>300</xmax>
+			<ymax>181</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>images</folder>
-	<filename>15.jpg</filename>
-	<path>C:\Users\interview2\Desktop\Project\Custom-object-detection\images\15.jpg</path>
+	<filename>10.jpg</filename>
+	<path>C:\Users\interview2\Desktop\Project\Custom-object-detection\images\10.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Colgate</name>
+		<name>bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>9</xmin>
-			<ymin>116</ymin>
-			<xmax>293</xmax>
-			<ymax>206</ymax>
+			<xmin>75</xmin>
+			<ymin>3</ymin>
+			<xmax>222</xmax>
+			<ymax>293</ymax>
 		</bndbox>
 	</object>
 </annotation>

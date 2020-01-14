@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Colgate</name>
+		<name>colgate</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6</xmin>
-			<ymin>116</ymin>
+			<xmin>11</xmin>
+			<ymin>117</ymin>
 			<xmax>292</xmax>
-			<ymax>191</ymax>
+			<ymax>193</ymax>
 		</bndbox>
 	</object>
 </annotation>

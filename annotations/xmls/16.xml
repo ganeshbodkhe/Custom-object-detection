@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Colgate</name>
+		<name>colgate</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>27</xmin>
-			<ymin>10</ymin>
-			<xmax>155</xmax>
-			<ymax>281</ymax>
+			<xmin>44</xmin>
+			<ymin>9</ymin>
+			<xmax>146</xmax>
+			<ymax>277</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Colgate</name>
+		<name>colgate</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>144</xmin>
-			<ymin>16</ymin>
-			<xmax>243</xmax>
-			<ymax>284</ymax>
+			<ymin>10</ymin>
+			<xmax>238</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 </annotation>

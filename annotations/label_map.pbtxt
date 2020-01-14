@@ -10,41 +10,41 @@ item {
 
 item {
   id: 3
-  name: 'Bottle'
+  name: 'bottle'
 }
 
 item {
   id: 4
-  name: 'Mouse'
+  name: 'mouse'
 }
 
 item {
   id: 5
-  name: 'StickyNotepad'
+  name: 'stickynote'
 }
 
 item {
   id: 6
-  name: 'OfficeMate'
+  name: 'officemate'
 }
 
 item {
   id: 7
-  name: 'Remote'
+  name: 'remote'
 }
 
 item {
   id: 8
-  name: 'NihilentIdCard'
+  name: 'nihilentidcard'
 }
 
 item {
   id: 9
-  name: 'Colgate'
+  name: 'colgate'
 }
 
 
 item {
   id: 10
-  name: 'Mobile'
+  name: 'channadal'
 }
